@@ -1,0 +1,6 @@
+{
+  "name": "Harare Cupboards",
+  "description": "Premium interior finishing and custom cabinetry in Zimbabwe. Luxury fitted kitchens, wardrobes, and modern home solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
